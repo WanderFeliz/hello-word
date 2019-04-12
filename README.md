@@ -1,3 +1,3 @@
 # hello-word
 Practicing
-New text
+This is part of my training to improve my skills programing
